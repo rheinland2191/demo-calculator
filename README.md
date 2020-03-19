@@ -1,6 +1,5 @@
 # Demo Calculator
-Backend using springboot
-Frontend using Angular
+Backend using springboot, Frontend using Angular
 
 ### PREREQ BACKEND ###
 
