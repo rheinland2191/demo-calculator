@@ -20,4 +20,4 @@ Backend using springboot, Frontend using Angular
 1. Springboot will automatically create the database on run. (If not existed previously)
 2. Please import 'car.sql' file to 'calculator' database to add some cars data.
 3. Do Note that in [calculator-frontend](https://github.com/rheinland2191/demo-calculator/tree/master/calculator-frontend) node modules are not included therefore please run 'npm install' before 'ng serve'
-4. For Backend Documentation you can check at [localhost:8080/swagger-ui.html](localhost:8080/swagger-ui.html) after finish running backend server.
+4. For Backend Documentation you can check at [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) after finish running backend server.
